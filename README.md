@@ -17,4 +17,4 @@ Aplikasi kalkulator desktop sederhana berbasis **Python** dan **Tkinter**.
 2. Buka terminal/command prompt di folder Anda
 3. Jalankan perintah:
    ```bash/cmd/terminal
-   python calculator.py
+   python kalkulator.py
